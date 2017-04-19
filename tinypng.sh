@@ -1,4 +1,4 @@
-
+#!/bin/bash
 keys=(
 "-QGvZ7H-4RFzjizRMsNf-rVVI_UTnmYK"
 "Zkf1LHXMWyyGcpUhsgH8bjET9j5oSw7S"
