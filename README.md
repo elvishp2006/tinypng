@@ -1,8 +1,8 @@
-move `tinypng.sh` to your project root
+* Move `tinypng.sh` to your project root
 
 * Install [jq](https://stedolan.github.io/jq/) to parse json.
 
-Then, just run `./tinypng.sh` .
+* Then, just run `./tinypng.sh` .
 
 * All png files in this project will be compressed by recursion。
  
